@@ -1,0 +1,3 @@
+3;Pele;4
+1;Messi;1
+2;Ronaldo;1
